@@ -13,13 +13,13 @@ typeof variable;
 var orderHasShipped = true
 //question 7
 if (orderHasShipped == true) {
-    consoleLog("true")
+    console.log("true")
 }else {
-    consoleLog("false")
+    console.log("false")
 }
 //question 8
 
 var i
 for(i = 0; i <= 9; i++) {
-    consoleLog(i)
+    console.log(i)
 }
